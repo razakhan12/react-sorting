@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-sorting/static/css/main.d9672951.chunk.css",
+    "main.js": "/react-sorting/static/js/main.67af731f.chunk.js",
+    "main.js.map": "/react-sorting/static/js/main.67af731f.chunk.js.map",
+    "runtime-main.js": "/react-sorting/static/js/runtime-main.a4817a07.js",
+    "runtime-main.js.map": "/react-sorting/static/js/runtime-main.a4817a07.js.map",
+    "static/js/2.65443e95.chunk.js": "/react-sorting/static/js/2.65443e95.chunk.js",
+    "static/js/2.65443e95.chunk.js.map": "/react-sorting/static/js/2.65443e95.chunk.js.map",
+    "index.html": "/react-sorting/index.html",
+    "precache-manifest.a1be2255e4b84ba8892d7ad8f53cc873.js": "/react-sorting/precache-manifest.a1be2255e4b84ba8892d7ad8f53cc873.js",
+    "service-worker.js": "/react-sorting/service-worker.js",
+    "static/css/main.d9672951.chunk.css.map": "/react-sorting/static/css/main.d9672951.chunk.css.map",
+    "static/js/2.65443e95.chunk.js.LICENSE.txt": "/react-sorting/static/js/2.65443e95.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-sorting/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4817a07.js",
+    "static/js/2.65443e95.chunk.js",
+    "static/css/main.d9672951.chunk.css",
+    "static/js/main.67af731f.chunk.js"
+  ]
+}
